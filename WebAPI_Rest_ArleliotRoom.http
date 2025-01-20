@@ -1,0 +1,6 @@
+@WebAPI_Rest_ArleliotRoom_HostAddress = http://localhost:5265
+
+GET {{WebAPI_Rest_ArleliotRoom_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
